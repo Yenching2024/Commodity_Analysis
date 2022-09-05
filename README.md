@@ -1,4 +1,4 @@
-# Commodity_Analysis
+# Commodity Analysis
 
 
 This is a space for my various projects analyzing all things commodities.
