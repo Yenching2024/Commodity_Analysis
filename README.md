@@ -12,4 +12,4 @@ implement more ML packages soon.
 
 
 
-目前我对 Scikit-Learn 最舒适，但期待我使用别的机器学习packages！
+目前我对 Scikit-Learn 最舒适，但期待我使用其他机器学习到的packages！
